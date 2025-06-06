@@ -13,7 +13,7 @@ Apple M1 Pro
 ## Structure
 Introduce the role of each package
 ```
-data              -- training data、 fill data and redundant data
+data              -- training data
 train             -- model train
 model             -- save model
 ```
